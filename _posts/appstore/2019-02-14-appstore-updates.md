@@ -11,4 +11,4 @@ Hiya!
 
 This section of the blog is for short-and-sweet posts about new apps and updates to apps hosted in the Wii U and Switch appstores, as well as news on the stores themselves.
 
-New posts will come when apps next update - see you then!
+New posts will come when apps next update - see you then! {{page.baseurl}} {{ page.baseurl }}
